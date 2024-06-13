@@ -1,0 +1,7 @@
+side1 = int(input('side1 : '))
+side2 = int(input('side2 : '))
+side3 = int(input('side3 : '))
+
+perimeter= side1 + side2 + side3
+
+print(f'Perimeter of the triangle : {perimeter}')
